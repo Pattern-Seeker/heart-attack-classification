@@ -1,0 +1,71 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+venv.bak/
+env.bak/
+
+# Editor directories
+.vscode/
+.idea/
+
+# Python testing / coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Models and checkpoints
+models/
+checkpoints/
+weights/
+*.h5
+*.keras
+*.pt
+*.pth
+*.ckpt
+*.ckpt.*
+*.joblib
+*.pkl
+*.sav
+*.onnx
+
+# Data folders (ignore if you store large datasets here)
+data/
+datasets/
+
+# Environment / secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Misc caches
+.mypy_cache/
+
