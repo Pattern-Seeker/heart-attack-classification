@@ -53,10 +53,11 @@ The dataset used in this project is sourced from **Kaggle**: [Heart Attack Predi
 
 ```
 heart-attack-classification/
-├── Heart Attack Classification.ipynb  # Main analysis
-├── deployment # model development
-├── heart_attack_prediction_dataset.csv # Dataset file
-└── README.md                           # Project documentation
+├── Heart_Attack_Classification.ipynb              # Main analysis and Model creation with unsupervised learning
+├── Old_Heart_Attack_Classification.ipynb          # Main analysis and Older Model creation without unsupervised unsupervised learning
+├── deployment                                     # model deployment with streamlit
+├── heart_attack_prediction_dataset.csv            # Dataset file
+└── README.md                                      # Project documentation
 ```
 
 ## Getting Started
