@@ -6,6 +6,10 @@ A machine learning project that predicts the likelihood of a heart attack based 
 
 This project leverages machine learning techniques to build a predictive model for identifying individuals at risk of heart attack. The model is trained on a comprehensive dataset containing various health indicators and demographic information, then deployed as a web application using Streamlit for easy accessibility and user interaction.
 
+## Deployment Screenshots
+![App Screenshot](screenshots/Landing%20Page.png)
+![App Screenshot](screenshots/Prediction%20Page.png)
+
 ## Dataset
 
 The dataset used in this project is sourced from **Kaggle**: [Heart Attack Prediction Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset/data)
@@ -13,7 +17,7 @@ The dataset used in this project is sourced from **Kaggle**: [Heart Attack Predi
 ### Dataset Features
 
 - Contains multiple health indicators (age, blood pressure, cholesterol, etc.)
-- Binary classification target (heart attack risk: yes/no)
+- Binary classification target (heart attack risk: yes=1/no=0)
 - Pre-processed and cleaned data ready for analysis
 
 ## Project Workflow
