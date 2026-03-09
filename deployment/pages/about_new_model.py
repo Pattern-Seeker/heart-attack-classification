@@ -3,7 +3,7 @@ from utils.i18n import tr
 
 st.set_page_config(page_title="Model Information", layout="centered",page_icon="🧠")
 
-st.title("📊 Model & Dataset Information", anchor=False)
+st.title("📊 Main Model & Dataset Information", anchor=False)
 
 st.markdown(
     """
@@ -18,7 +18,7 @@ st.header("🧠 Model Overview")
 
 st.markdown(
     """
-    - **Model Type:** Logistic Regression  
+    - **Model Type:** Random Forest  
     - **Purpose:** Binary classification (Heart Attack Risk: Yes / No)  
     - **Reason for Selection:**  
       - Interpretable results  
