@@ -2,6 +2,15 @@
 
 A machine learning project that predicts the likelihood of a heart attack based on medical and health parameters using classification algorithms.
 
+## Deployed Application
+
+The Heart Attack Risk Prediction model has been deployed and can be accessed online.
+
+**Live Demo:**  
+https://heartalert.up.railway.app/
+
+This web application allows users to input health-related information such as age, cholesterol level, blood pressure, lifestyle habits, and other factors to predict the potential risk of a heart attack using a machine learning model.
+
 ## Project Overview
 
 This project leverages machine learning techniques to build a predictive model for identifying individuals at risk of heart attack. The model is trained on a comprehensive dataset containing various health indicators and demographic information, then deployed as a web application using Streamlit for easy accessibility and user interaction.
